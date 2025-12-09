@@ -1,0 +1,5 @@
+{
+  "name": "Visual Math Grader AI",
+  "description": "An intelligent math grading system that uses Gemini to visually annotate student work, score submissions against an answer key, and provide detailed feedback.",
+  "requestFramePermissions": []
+}
